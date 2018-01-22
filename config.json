@@ -1,0 +1,5 @@
+{
+    "BUCKET": "shortener",
+    "REGION": "sa-east-1",
+    "STAGE": "dev"
+}
